@@ -1,5 +1,5 @@
 ﻿# Sales and Profit Analysis | Power BI
-
+ 
 A personal data analysis project created with Microsoft Power BI. This report explores sales and profit by country, customer segment, and product, presenting the main results in an interactive dashboard.
 
 ## Preview
